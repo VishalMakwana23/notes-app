@@ -2,65 +2,70 @@
  Simple NotesApp using FileManager
 
 
-### ImaGestures Contain Functionality
+### NotesApp Contain Functionality
 
- - On Tap: Open Image Picker
- - On Pinch: Scale the Image View
- - On Rotation: Rotate the Image View
- - On Swipe: Move the Image View by some distance in the swipe direction
- - On Pan: Move the Image View based on Pan location
+- Login / Logout (with UserDefaults)
+- Add new notes
+- Modify existing note
+- Delete notes
 
 #### UIElements
  
  - UILabel
  - UIButton
  - UIImageView
- - UIImagePicker
  - UIAlertView
- - UITapGestureRecognizer
- - UIPinchGestureRecognizer
- - UIRotationGestureRecognizer
- - UISwipeGestureRecognizer
- - UIPanGestureRecognizer
+
  
  ## How ImaGastures Work
  
- - Click On ImaGestures To see Full Demo
+ - Click On NotesApp To see Full Demo
  
- [![ImaGestures](https://img.youtube.com/vi/jkzSJxhhHO4)](https://www.youtube.com/watch?v=jkzSJxhhHO4)
+ [![NotesApp](https://img.youtube.com/vi/FWKy57TJWcE)](https://www.youtube.com/watch?v=FWKy57TJWcE)
 
  - Short Hand Demo
  
- ![](ImaGestures/output/ImaGesture.gif)
+ ![](FileManager/Output/NotesApp.gif)
+ 
+ ![](FileManager/Output/NotesApp2.gif)
  
  ### Output
- 
-  - Home
+  - Login Page With Validation And UserDefaults
 
-![](ImaGestures/output/1.png)
+![](FileManager/Output/validation.png)
 
- - Notice
+  - Login Page With Validation And UserDefaults
 
-![](ImaGestures/output/2.png)
+![](FileManager/Output/1.png)
 
- - ImaGestures : On Tap - Open Image Picker
+ - Login Successfuly Alert
 
-![](ImaGestures/output/3.png)
+![](FileManager/Output/2.png)
 
- - ImaGestures : Image Picker
+ - Notes Welcome Page
 
-![](ImaGestures/output/4.png)
+![](FileManager/Output/3.png)
 
- - ImaGestures : On Pinch - Scale the Image View
+ - Notes Page (Show existing Note and also Add,Update and Remove Notes)
 
-![](ImaGestures/output/5.png)
+![](FileManager/Output/4.png)
 
-- ImaGestures : On Pinch - Scale the Image View
+ - Add New notes and Update Notes
 
-![](ImaGestures/output/6.png)
+![](FileManager/Output/5.png)
 
-- ImaGestures : On Rotation - Rotate the Image View
+- File Name Validation
 
-![](ImaGestures/output/7.png)
+![](FileManager/Output/6.png)
 
-![](ImaGestures/output/8.png)
+- Saved File Successfully
+
+![](FileManager/Output/7.png)
+
+- Show Existing File
+
+![](FileManager/Output/8.png)
+
+- Delete Notes
+
+![](FileManager/Output/9.png)
