@@ -25,8 +25,10 @@
 
  - Short Hand Demo
  
+   --Contain Login And Add Notes
  ![](FileManager/Output/NotesApp.gif)
  
+   --Contain Update and Delete Notes as well as Logout
  ![](FileManager/Output/NotesApp2.gif)
  
  ### Output
