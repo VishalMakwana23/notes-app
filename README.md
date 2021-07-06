@@ -15,7 +15,10 @@
  - UIButton
  - UIImageView
  - UIAlertView
-
+ - UITextField
+ - UITextView
+ - UIButton
+ - UITableView
  
  ## How ImaGastures Work
  
@@ -24,11 +27,12 @@
  [![NotesApp](https://img.youtube.com/vi/FWKy57TJWcE)](https://www.youtube.com/watch?v=FWKy57TJWcE)
 
  - Short Hand Demo
+ - [x] Contain Login And Add Notes
  
-   --Contain Login And Add Notes
  ![](FileManager/Output/NotesApp.gif)
  
-   --Contain Update and Delete Notes as well as Logout
+ - [x] Contain Update and Delete Notes as well as Logout
+ 
  ![](FileManager/Output/NotesApp2.gif)
  
  ### Output
