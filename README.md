@@ -22,9 +22,17 @@
  
  ## How ImaGastures Work
  
- - Click On NotesApp To see Full Demo
+ - Click On Play To see Full Demo
  
- [![NotesApp](https://img.youtube.com/vi/FWKy57TJWcE)](https://www.youtube.com/watch?v=FWKy57TJWcE)
+ 
+
+
+
+https://user-images.githubusercontent.com/70998696/124694145-52f85d00-defe-11eb-85e3-cb0e91da3bb8.mp4
+
+
+
+ 
 
  - Short Hand Demo
  - [x] Contain Login And Add Notes
